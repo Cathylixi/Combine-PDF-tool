@@ -37,6 +37,10 @@ Combine pdf/
         └── logger.py
 ```
 
+## Directly Use
+
+Double click Combine_pdf_tool/Combine_pdf_tool.exe
+
 ## Run in Development
 
 From the `implementation` folder:
